@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+package-lock.json
+package.json
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+*.map
+*.tgz
+*.zip
+*.tar.gz
+
+# Coverage directory used by tools like istanbul
+coverage/
